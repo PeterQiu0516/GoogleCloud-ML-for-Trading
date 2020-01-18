@@ -1,9 +1,9 @@
 # Qwiklab 3 - Build a Time Series Model (ARIMA Model) to Forecast Stock Price
 
 ## Lab Manual
->[Qwiklab 3 - Lab Manual (Preview)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/blob/master/Course%201:%20%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP/Qwiklab%203%20-%20Build%20a%20Time%20Series%20Model%20(ARIMA%20Model)%20to%20Forecast%20Stock%20Price/Qwiklab%203%20-%20Lab%20Manual.pdf)
+>[Qwiklab 3 - Lab Manual (Preview)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/blob/master/Course%201%20-%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP/Qwiklab%203%20-%20Build%20a%20Time%20Series%20Model%20(ARIMA%20Model)%20to%20Forecast%20Stock%20Price/Qwiklab%203%20-%20Lab%20Manual.pdf)
 
->[Qwiklab 3 - Lab Manual (Download)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/raw/master/Course%201:%20%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP/Qwiklab%203%20-%20Build%20a%20Time%20Series%20Model%20(ARIMA%20Model)%20to%20Forecast%20Stock%20Price/Qwiklab%203%20-%20Lab%20Manual.pdf)
+>[Qwiklab 3 - Lab Manual (Download)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/raw/master/Course%201%20-%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP/Qwiklab%203%20-%20Build%20a%20Time%20Series%20Model%20(ARIMA%20Model)%20to%20Forecast%20Stock%20Price/Qwiklab%203%20-%20Lab%20Manual.pdf)
 
 ## About
 This lab is based on Qwiklabs Supported by [Google Cloud Platform(GCP)](https://cloud.google.com/). 
