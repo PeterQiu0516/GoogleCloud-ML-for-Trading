@@ -1,9 +1,9 @@
 # Qwiklab 2 - Forecasting AAPL Stock Prices by building a Regression Model using BigQuery Machine Learning(BQML)
 
 ## Lab Manual
->[Qwiklab 2 - Lab Manual (Preview)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/blob/master/Course%201:%20%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP/Qwiklab%202%20-%20Forecasting%20AAPL%20Stock%20Prices%20by%20building%20a%20Regression%20Model%20using%20BigQuery%20Machine%20Learning(BQML)/QwikLab%202%20-%20Lab%20Manual.pdf)
+>[Qwiklab 2 - Lab Manual (Preview)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/blob/master/Course%201%20-%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP/Qwiklab%202%20-%20Forecasting%20AAPL%20Stock%20Prices%20by%20building%20a%20Regression%20Model%20using%20BigQuery%20Machine%20Learning(BQML)/Lab%20Manual.pdf)
 
->[Qwiklab 2 - Lab Manual (Download)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/raw/master/Course%201:%20%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP/Qwiklab%202%20-%20Forecasting%20AAPL%20Stock%20Prices%20by%20building%20a%20Regression%20Model%20using%20BigQuery%20Machine%20Learning(BQML)/QwikLab%202%20-%20Lab%20Manual.pdf)
+>[Qwiklab 2 - Lab Manual (Download)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/raw/master/Course%201%20-%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP/Qwiklab%202%20-%20Forecasting%20AAPL%20Stock%20Prices%20by%20building%20a%20Regression%20Model%20using%20BigQuery%20Machine%20Learning(BQML)/Lab%20Manual.pdf)
 
 ## About
 This lab is based on Qwiklabs Supported by [Google Cloud Platform(GCP)](https://cloud.google.com/). 
