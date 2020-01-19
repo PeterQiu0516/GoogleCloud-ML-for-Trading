@@ -1,9 +1,9 @@
 # Qwiklab 1 - Build a ML Model in TensorFlow using the Estimator API
 
 ## Lab Manual
->[Qwiklab 1 - Lab Manual (Preview)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/blob/master/Course%201%20-%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP/Qwiklab%202%20-%20Forecasting%20AAPL%20Stock%20Prices%20by%20building%20a%20Regression%20Model%20using%20BigQuery%20Machine%20Learning(BQML)/Lab%20Manual.pdf)
+>[Qwiklab 1 - Lab Manual (Preview)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/blob/master/Course%202%20-%20Using%20Machine%20Learning%20in%20Trading%20and%20Finance/Qwiklab%201%20-%20Build%20a%20ML%20Model%20in%20TensorFlow%20using%20the%20Estimator%20API/Qwiklab%201%20-%20Lab%20Manual.pdf)
 
->[Qwiklab 1 - Lab Manual (Download)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/raw/master/Course%201%20-%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP/Qwiklab%202%20-%20Forecasting%20AAPL%20Stock%20Prices%20by%20building%20a%20Regression%20Model%20using%20BigQuery%20Machine%20Learning(BQML)/Lab%20Manual.pdf)
+>[Qwiklab 1 - Lab Manual (Download)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/raw/master/Course%202%20-%20Using%20Machine%20Learning%20in%20Trading%20and%20Finance/Qwiklab%201%20-%20Build%20a%20ML%20Model%20in%20TensorFlow%20using%20the%20Estimator%20API/Qwiklab%201%20-%20Lab%20Manual.pdf)
 
 ## About
 This lab is based on Qwiklabs Supported by [Google Cloud Platform(GCP)](https://cloud.google.com/). 
