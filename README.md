@@ -7,7 +7,7 @@ This Specialization is for finance professionals, including but not limited to: 
 The courses will teach you how to create various trading strategies using Python. By the end of the Specialization, you will be able to create long-term trading strategies, short-term trading strategies, and hedging strategies.
 
 **I take this course during my internship as an data analyst at Asset Pro to:**
-+ **Equip my self with knowledge about quantitative trading strategies and application of ML to trading.**
++ **Equip myself with knowledge about quantitative trading strategies and application of ML to trading.**
 + **Explore career interests and development opportunities in financial engineering.**
 
 ## Background Knowledge
