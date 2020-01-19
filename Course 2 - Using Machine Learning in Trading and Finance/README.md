@@ -5,7 +5,7 @@ Materials for the second course of the Machine Learning for Trading Specializati
 ## Course Syllabus
 
 + ### Week 1: Introduction to Quantitative Trading and TensorFlow
-  + > [Qwiklab 1 - Build a Regression Model in AI Platform Notebooks](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/tree/master/Qwiklab%201%20-%20Building%20a%20Regression%20Model%20in%20AI%20Platform%20Notebooks)
+  + > [Qwiklab 1 - Build a ML Model in TensorFlow using the Estimator API](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/tree/master/Course%202%20-%20Using%20Machine%20Learning%20in%20Trading%20and%20Finance/Qwiklab%201%20-%20Build%20a%20ML%20Model%20in%20TensorFlow%20using%20the%20Estimator%20API)
 
 + ### Week 2: Build a Pair Trading Strategy Prediction Model
 
