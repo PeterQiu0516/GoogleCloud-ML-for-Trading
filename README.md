@@ -19,7 +19,7 @@ I have also uploaded my own notes and study materials for this course. You can f
 
 ## Specialization Curriculum
 + ### [Course 1 - Introduction to Trading, Machine Learning & GCP](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/blob/master/Course%201:%20%20Introduction%20to%20Trading,%20Machine%20Learning%20&%20GCP/)
-+ ### [Course 2 - Using Machine Learning in Trading and Finance]()
++ ### [Course 2 - Using Machine Learning in Trading and Finance](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/tree/master/Course%202%20-%20Using%20Machine%20Learning%20in%20Trading%20and%20Finance)
 + ### [Course 3 - Reinforcement Learning for Trading Strategies]()
 
 ## Explore More
