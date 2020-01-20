@@ -17,3 +17,6 @@ In order to execute them, first run:
 ```
 pip install jupyter
 ```
+
+## Explore More
++ [Official documentation on AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs/)
