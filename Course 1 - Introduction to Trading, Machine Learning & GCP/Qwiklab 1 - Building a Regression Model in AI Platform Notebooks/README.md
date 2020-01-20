@@ -11,12 +11,13 @@ This lab is based on Qwiklabs Supported by [Google Cloud Platform(GCP)](https://
 Main Webpage for Qwiklabs: https://www.qwiklabs.com/
 
 ## Running
-Main files are Jupyter Notebook files named `aapl_regression_scikit_learn.ipynb` and  `aapl_regression_scikit_learn_double_regression.ipynb`, which combine SQL and Python codes together.
+First, at the command-line prompt, type in the following command and press Enter.
+```
+git clone https://github.com/Auquan/Tutorials.git
+```
 
-In order to execute them, first run:
-```
-pip install jupyter
-```
+Navigate to **training-data-analyst > courses > ai-for-finance > practice** and open `aapl_regression_scikit_learn.ipynb`
+
 
 ## Explore More
 + [Official documentation on AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs/)
