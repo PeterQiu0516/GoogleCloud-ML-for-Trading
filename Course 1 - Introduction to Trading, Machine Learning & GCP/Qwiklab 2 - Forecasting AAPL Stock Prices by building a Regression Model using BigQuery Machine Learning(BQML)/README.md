@@ -16,3 +16,7 @@ In this lab, I build and evaluate a simple linear regression model in BQML to pr
 
 [BigQuery Machine Learning](https://cloud.google.com/bigquery/docs/bigqueryml-analyst-start) (BQML) is a new feature in BigQuery where data analysts can create, train, evaluate, and predict with machine learning models with minimal coding.
 
+## Explore More
++ [Official documentation for creating ML models in BigQuery](https://cloud.google.com/bigquery-ml/docs/reference/standard-sql/bigqueryml-syntax-create)
++ [Applying ML to your data on GCP](https://www.coursera.org/learn/data-insights-gcp-apply-ml)
++ [Getting started with BigQuery ML using the web UI](https://cloud.google.com/bigquery-ml/docs/bigqueryml-web-ui-start)
