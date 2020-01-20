@@ -19,6 +19,10 @@ First, at the command-line prompt, type in the following command and press Enter
 git clone https://github.com/GoogleCloudPlatform/training-data-analyst
 ```
 
+Then Navigate to the **training-data-analyst>courses>ai-for-finance>practice** directory and open `arima_model.ipynb`.
+
+Solution file is also uploaded in this repository named `arima_model.ipynb` and you may download it to have a check.
+
 ## Explore More
 ### Time Series
 A time series is a series of data points indexed (or listed or graphed) in time order. Most commonly, a time series is a sequence taken at successive equally spaced points in time. Thus it is a sequence of discrete-time data. Examples of time series are heights of ocean tides, counts of sunspots, and the daily closing value of the Dow Jones Industrial Average.
@@ -36,8 +40,7 @@ ARIMA models are applied in some cases where data show evidence of non-stationar
 The **AR (Auto-Regressive)** part of ARIMA indicates that the evolving variable of interest is *regressed on its own lagged (i.e., prior) values*. 
 
 The **MA (Moving Average)** part indicates that the regression error is actually a linear combination of error terms whose values occurred contemporaneously and at various times in the past. 
-Then Navigate to the **training-data-analyst>courses>ai-for-finance>practice** directory and open `arima_model.ipynb`.
-23
+
 
 The **I (Integration)** indicates that the data values have been replaced with the difference between their values and the previous values (and this differencing process may have been performed more than once). The purpose of each of these features is to make the model fit the data as well as possible.
 
