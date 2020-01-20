@@ -12,7 +12,7 @@ Materials for the second course of the Machine Learning for Trading Specializati
   + > [Qwiklab 2 - Pairs Trading Strategy](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/tree/master/Course%202%20-%20Using%20Machine%20Learning%20in%20Trading%20and%20Finance/Qwiklab%202%20-%20Pairs%20Trading%20Strategy)
 + ### Week 3: Build a Momentum-based Trading System
 
-  + > [Qwiklab 3 - Build a Time Series Model (ARIMA Model) to Forecast Stock Price](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/tree/master/Course%201:%20%20Introduction%20to%20Trading,%20Machine%20Learning%20&%20GCP/Qwiklab%203%20-%20Build%20a%20Time%20Series%20Model%20(ARIMA%20Model)%20to%20Forecast%20Stock%20Price)
+  + > [Qwiklab 3 - Momentum Strategy](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/tree/master/Course%202%20-%20Using%20Machine%20Learning%20in%20Trading%20and%20Finance/Qwiklab%203%20-%20Momentum%20Strategy)
 
 ## About
 
