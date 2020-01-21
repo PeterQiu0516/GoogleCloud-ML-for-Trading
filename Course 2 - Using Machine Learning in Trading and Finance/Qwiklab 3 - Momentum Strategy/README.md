@@ -17,7 +17,7 @@ Then Navigate to the **Tutorials** directory and open **Pairs Trading.ipynb**.
 You'll need to install some libraries to complete the notebook. Create a new cell at the top of the notebook and execute the following code:
 
 ```
-%pip install statsmodels --user  
+%pip install pandas==0.24.1 --user
 %pip install tensorboardX --user
 %pip install bs4 --user
 %pip install -U auquan_toolbox --user
@@ -35,3 +35,4 @@ Related Auquan blog post:  [Pairs Trading using Data-Driven Techniques: Simple T
 ## Explore More
 + [Official documentation on AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs/)
 + [Blogpost on pairs trading by Bart Chrzaszcz](https://medium.com/@bart.chr/pairs-trading-for-algorithmic-trading-breakdown-d8b709f59372)
++ [Auquan - Where the worlds smartest people solve problems using data science](https://auquan.com/)
