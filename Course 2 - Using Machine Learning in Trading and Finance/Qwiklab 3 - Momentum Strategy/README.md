@@ -1,9 +1,9 @@
 # Qwiklab 3 - Momentum Strategy
 
 ## Lab Manual
->[Qwiklab 3 - Lab Manual (Preview)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/blob/master/Course%202%20-%20Using%20Machine%20Learning%20in%20Trading%20and%20Finance/Qwiklab%202%20-%20Pairs%20Trading%20Strategy/Qwiklab%202%20-%20Lab%20Manual.pdf)
+>[Qwiklab 3 - Lab Manual (Preview)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/blob/master/Course%202%20-%20Using%20Machine%20Learning%20in%20Trading%20and%20Finance/Qwiklab%203%20-%20Momentum%20Strategy/Qwiklab%203%20-%20Lab%20Manual.pdf)
 
->[Qwiklab 3 - Lab Manual (Download)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/raw/master/Course%202%20-%20Using%20Machine%20Learning%20in%20Trading%20and%20Finance/Qwiklab%202%20-%20Pairs%20Trading%20Strategy/Qwiklab%202%20-%20Lab%20Manual.pdf)
+>[Qwiklab 3 - Lab Manual (Download)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/raw/master/Course%202%20-%20Using%20Machine%20Learning%20in%20Trading%20and%20Finance/Qwiklab%203%20-%20Momentum%20Strategy/Qwiklab%203%20-%20Lab%20Manual.pdf)
 
 ## Running
 
