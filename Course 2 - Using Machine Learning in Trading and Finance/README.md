@@ -27,6 +27,6 @@ I have completed this course and get full marks for all tests.
 >[Electronic Course Certificate (LinkedIn Licenses & Certifications)](https://www.linkedin.com/in/%E6%98%8C%E5%85%83-%E9%82%B1-b75857198/)
 
 
->[Electronic Course Certificate (PDF Preview)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/blob/master/Course%201%20-%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP/Course%20Certificate%20for%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP.pdf)
+>[Electronic Course Certificate (PDF Preview)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/blob/master/Course%202%20-%20Using%20Machine%20Learning%20in%20Trading%20and%20Finance/Course%20Certificate%20for%20Using%20Machine%20Learning%20in%20Trading%20and%20Finance.pdf)
 
->[Electronic Course Certificate (PDF Download)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/raw/master/Course%201%20-%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP/Course%20Certificate%20for%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP.pdf)
+>[Electronic Course Certificate (PDF Download)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/raw/master/Course%202%20-%20Using%20Machine%20Learning%20in%20Trading%20and%20Finance/Course%20Certificate%20for%20Using%20Machine%20Learning%20in%20Trading%20and%20Finance.pdf)
