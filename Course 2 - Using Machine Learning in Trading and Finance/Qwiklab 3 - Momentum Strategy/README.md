@@ -34,5 +34,5 @@ Related Auquan blog post:  [Pairs Trading using Data-Driven Techniques: Simple T
 
 ## Explore More
 + [Official documentation on AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs/)
-+ [Blogpost on pairs trading by Bart Chrzaszcz](https://medium.com/@bart.chr/pairs-trading-for-algorithmic-trading-breakdown-d8b709f59372)
++ [Auquan blogpost on monentum trading](https://medium.com/auquan/momentum-simple-trading-strategies-part-2-188cf464ffcf)
 + [Auquan - Where the worlds smartest people solve problems using data science](https://auquan.com/)
