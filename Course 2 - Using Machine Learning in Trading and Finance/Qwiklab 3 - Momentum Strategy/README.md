@@ -12,7 +12,7 @@ First, at the command-line prompt, type in the following command and press Enter
 git clone https://github.com/Auquan/Tutorials.git
 ```
 
-Then Navigate to the **Tutorials** directory and open **Pairs Trading.ipynb**.
+Then Navigate to the **Tutorials** directory and open **momentum_backtest_losing_money.ipynb.**.
 
 You'll need to install some libraries to complete the notebook. Create a new cell at the top of the notebook and execute the following code:
 
