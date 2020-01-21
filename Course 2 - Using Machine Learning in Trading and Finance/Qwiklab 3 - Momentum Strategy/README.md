@@ -22,6 +22,7 @@ You'll need to install some libraries to complete the notebook. Create a new cel
 %pip install bs4 --user
 %pip install -U auquan_toolbox --user
 ```
+If you get stuck, open the solution file **momentum_backtest_making_money.ipynb** I have uploaded.
 
 ## About
 This lab is based on Qwiklabs Supported by [Google Cloud Platform(GCP)](https://cloud.google.com/). 
