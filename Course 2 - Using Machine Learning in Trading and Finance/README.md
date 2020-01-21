@@ -17,3 +17,16 @@ Materials for the second course of the Machine Learning for Trading Specializati
 ## About
 
 Course link: https://www.coursera.org/learn/machine-learning-trading-finance/
+
+I have completed this course and get full marks for all tests.
+
+>[Course Grades](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/blob/master/Course%201%20-%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP/Course%20Grades.jpg)
+
+>[Electronic Course Certificate (Coursera Official Sharable Link)](https://www.coursera.org/account/accomplishments/certificate/LP8JAXBGMKUZ)
+
+>[Electronic Course Certificate (LinkedIn Licenses & Certifications)](https://www.linkedin.com/in/%E6%98%8C%E5%85%83-%E9%82%B1-b75857198/)
+
+
+>[Electronic Course Certificate (PDF Preview)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/blob/master/Course%201%20-%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP/Course%20Certificate%20for%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP.pdf)
+
+>[Electronic Course Certificate (PDF Download)](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/raw/master/Course%201%20-%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP/Course%20Certificate%20for%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP.pdf)
