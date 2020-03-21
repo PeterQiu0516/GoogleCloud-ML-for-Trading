@@ -13,14 +13,12 @@ The courses will teach you how to create various trading strategies using Python
 ## Background Knowledge
 To be successful in this Specialization, you should have a basic competency in Python programming and familiarity with pertinent libraries for machine learning, such as Scikit-Learn, StatsModels, and Pandas. Experience with SQL will be helpful. You should have a background in statistics (expected values and standard deviation, Gaussian distributions, higher moments, probability, linear regressions) and foundational knowledge of financial markets (equities, bonds, derivatives, market structure, hedging).
 
-You may refer to [the first course of another specialization](https://www.coursera.org/learn/global-financial-markets-instruments) offered by Rice University to get familiar with these financial terminologies.
-
-I have also uploaded my own notes and study materials for this course. You can find them [here](https://github.com/PeterQiu0516/Rice-Investment-and-Portfolio-Management).
+You may refer to [the first course of another specialization](https://www.coursera.org/learn/global-financial-markets-instruments) offered by Rice University to get familiar with these financial terminologies. I have also uploaded my own notes and study materials for this course. You can find them [here](https://github.com/PeterQiu0516/Rice-Investment-and-Portfolio-Management).
 
 ## Specialization Curriculum
 + ### [Course 1 - Introduction to Trading, Machine Learning & GCP](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/tree/master/Course%201%20-%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP)
 + ### [Course 2 - Using Machine Learning in Trading and Finance](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/tree/master/Course%202%20-%20Using%20Machine%20Learning%20in%20Trading%20and%20Finance)
-+ ### [Course 3 - Reinforcement Learning for Trading Strategies]()
++ ### [Course 3 - Reinforcement Learning for Trading Strategies](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/tree/master/Course%203%20-%20Reinforcement%20Learning%20for%20Trading%20Strategies)
 
 ## Explore More
 Specialization link: https://www.coursera.org/specializations/machine-learning-trading
